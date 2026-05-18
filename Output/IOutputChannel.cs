@@ -1,4 +1,4 @@
-// AZMLib/Output/IOutputChannel.cs
+﻿// AZMLib/Output/IOutputChannel.cs
 namespace AZMLib.Output
 {
     public interface IOutputChannel : IDisposable
